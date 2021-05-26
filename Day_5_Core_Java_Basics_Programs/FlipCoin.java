@@ -1,7 +1,5 @@
 import java.util.Random;
 
-import javax.lang.model.util.ElementScanner14;
-
 public class FlipCoin {
     public static void main(String[] args) {
         int headwin = 0;
